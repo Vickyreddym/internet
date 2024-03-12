@@ -1,0 +1,23 @@
+.container1{
+    position: sticky ;
+    border: 1px solid;
+    padding: 20px;
+    height: 20px;
+}
+.container2{
+    position:absolute   ;
+    border: 2px solid ;
+    padding: 20px;
+    height: 100px;
+}
+.item1,.item2{
+    position: relative;
+    padding: 20px; 
+    border: 2px solid red ;
+}
+.item3,.item4{
+    position: sticky;
+    padding: 20px;
+    border: 1px solid green;
+    
+}
